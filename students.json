@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Ron",
+        "last_name": "Shahar",
+        "email": "ron.shahar@e.braude.ac.il",
+        "courses": [
+            "Mechanics for software engineering",
+            "Data mining and learning systems",
+            "The theory of compilation",
+            "Introduction to cloud computing",
+            "Introduction to artificial intelligence",
+            "Advanced internet technologies",
+            "Embrace Diversity"
+        ],
+        "Link": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png",
+		"Fav_Show" : ""
+    },
+    {
+        "name": "Nitsan",
+        "last_name": "Maman",
+        "email": "nitsan.maman@e.braude.ac.il",
+        "courses": [
+            "Mechanics for software engineering",
+            "Data mining and learning systems",
+            "The theory of compilation",
+            "Introduction to cloud computing",
+            "Introduction to artificial intelligence",
+            "Advanced internet technologies",
+            "Embrace Diversity"
+        ],
+        "Link": "https://archives.bulbagarden.net/media/upload/c/c2/0092Gastly.png",
+		"Fav_Show" : ""
+    },
+    {
+        "name": "Gilad",
+        "last_name": "Segal",
+        "email": "gilad.segal@e.braude.ac.il",
+        "courses": [
+            "Mechanics for software engineering",
+            "Data mining and learning systems",
+            "The theory of compilation",
+            "Introduction to cloud computing",
+            "Introduction to artificial intelligence",
+            "Advanced internet technologies"
+        ],
+        "Link": "https://w7.pngwing.com/pngs/156/686/png-transparent-pokemon-go-pokemon-x-and-y-ash-ketchum-charmander-pokemon-background-orange-cartoon-fictional-character.png",
+		"Fav_Show" : ""
+    },
+    {
+        "name": "Lior",
+        "last_name": "Jigalo",
+        "email": "lior.jigalo@e.braude.ac.il",
+        "courses": [
+            "Mechanics for software engineering",
+            "Data mining and learning systems",
+            "The theory of compilation",
+            "Introduction to cloud computing",
+            "Introduction to artificial intelligence",
+            "Advanced internet technologies"
+        ],
+        "Link": "https://e7.pngegg.com/pngimages/476/159/png-clipart-pokemon-pikachu-pikachu-pokemon-games-pokemon.png",
+		"Fav_Show" : ""
+    },
+    {
+        "name": "Kfir",
+        "last_name": "Hemo",
+        "email": "kfir.hemo@e.braude.ac.il",
+        "courses": [
+            "Mechanics for software engineering",
+            "Data mining and learning systems",
+            "The theory of compilation",
+            "Introduction to cloud computing",
+            "Introduction to artificial intelligence",
+            "Advanced internet technologies"
+        ],
+        "Link": "https://www.pngmart.com/files/22/Bulbasaur-Pokemon-PNG-Image.png",
+		"Fav_Show" : ""
+    },
+	{
+		"name": "Daniel",
+		"last_name": "Vardimon",
+		"email": "daniel.vardimon@e.braude.ac.il",
+		"courses": [
+			"Mechanics for software engineering",
+			"Data mining and learning systems",
+			"The theory of compilation",
+			"Introduction to cloud computing",
+			"Introduction to artificial intelligence",
+			"Advanced internet technologies"
+		],
+		"Link": "https://assets.stickpng.com/images/580b57fcd9996e24bc43c32a.png",
+		"Fav_Show" : ""
+	}
+]
