@@ -1,5 +1,5 @@
 # Welcome to our Cloud Computing repository
-This repo includes exercises and class assignments.
+This repo includes exercises and class assignments for Group 7.
 
 ## Assignment 1 
 part A - "cloud computing HW01_A solution.docx"
