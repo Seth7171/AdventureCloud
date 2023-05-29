@@ -1,4 +1,4 @@
-# Welcome to our Cloud Computing repository
+# Welcome to our Cloud Computing Repository
 This repo includes exercises and class assignments for Group 7.
 
 ## Assignment 1 
@@ -16,4 +16,25 @@ follow this next steps in your colab:
 
 !mv students.json ../
 ```
+
+## Assignment 2
+HW2_314865841_318262151_205798515_206755712_209289685_316109115.zip
+
+In this assignment we developed cloud game prototype in concept of adventure game ("Cloudtopia").
+
+**The code is available in our Google Colab page in this link:** https://colab.research.google.com/drive/1nAKxOCsUVoGf6NYYv49A85g5X0ja8X2Y#scrollTo=tXIDXEwEE2dC
+
+We designed several screens with few features of basic functionality (pressing buttons, moving to a new screen and etc).
+
+<ins>The screens include:</ins> 
+  
+* Manager screen for adding and editing questions, 
+  
+* preview screen with game description, 
+  
+* screen showing a question, 
+  
+* screen showing an indication of a correct/wrong answer, 
+  
+* game summary screen with a graph illustrating the performance of the player in the current game.
 
