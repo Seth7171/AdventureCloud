@@ -39,9 +39,11 @@ We designed several screens with few features of basic functionality (pressing b
 * game summary screen with a graph illustrating the performance of the player in the current game.
 
 ## Assignment 3
-HW3.zip - **notice this is not the full submittion like in the moodle due to the marketing video was to large.**
+HW3.zip
 
-Still in this assignment we finished the second iteration of our project + writing acceptence tests.
+zebra_project.mp4
+
+In this assignment we finished the second iteration of our project + writing acceptence tests.
 
 Moreover, the zip includes the following:
 
