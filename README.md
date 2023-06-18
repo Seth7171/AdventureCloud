@@ -1,5 +1,5 @@
 # Welcome to our Cloud Computing Repository
-This repo includes exercises and class assignments for Group 7.
+This repo includes exercises and class assignments for Group 7 (Zebra) in cloud computing course.
 
 ## Assignment 1 
 part A - "cloud computing HW01_A solution.docx"
@@ -37,4 +37,18 @@ We designed several screens with few features of basic functionality (pressing b
 * screen showing an indication of a correct/wrong answer, 
   
 * game summary screen with a graph illustrating the performance of the player in the current game.
+
+## Assignment 3
+HW3.zip - **notice this is not the full submittion like in the moodle due to the marketing video was to large.**
+
+Still in this assignment we finished the second iteration of our project + writing acceptence tests.
+
+Moreover, the zip includes the following:
+
+* The SUS score given to our system after calculation (Excel file)
+  
+* Programmer portfolio - main files, main functions, code snippets/interesting design templates
+
+* User portfolio - general explanation of the game, breakdown of screens, transitions between screens and an explanation of optional errors.
+
 
