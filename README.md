@@ -38,7 +38,7 @@ We designed several screens with few features of basic functionality (pressing b
   
 * game summary screen with a graph illustrating the performance of the player in the current game.
 
-## Assignment 3
+## Assignment 3 part A
 HW3.zip
 
 zebra_project.mp4
@@ -53,4 +53,10 @@ Moreover, the zip includes the following:
 
 * User portfolio - general explanation of the game, breakdown of screens, transitions between screens and an explanation of optional errors.
 
+## Assignment 3 part B
+314865841_318262151_205798515_206755712_209289685_316109115.HW3b.docx
+
+In this assignment we performed acceptence tests on the 'chameleon' group (according to our acceptence tests).
+
+Also, each of our team members evaluated the 'chameleon' group accrding to 'Code Review Checklist Overview' by Dr. Michaela Greiler.
 
