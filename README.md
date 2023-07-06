@@ -60,3 +60,7 @@ In this assignment we performed acceptence tests on the 'chameleon' group (accor
 
 Also, each of our team members evaluated the 'chameleon' group accrding to 'Code Review Checklist Overview' by Dr. Michaela Greiler.
 
+## Final Project Documantation
+cloud-project_final.docx
+
+Summery of our project (including programmer portfolio and user portfolio).
