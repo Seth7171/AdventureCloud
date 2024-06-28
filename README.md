@@ -1,5 +1,6 @@
 # Welcome to our Cloud Computing Repository
 This repo includes exercises and class assignments for Group 7 (Zebra) in cloud computing course.
+
 Link yo play the game :
 https://colab.research.google.com/drive/1nAKxOCsUVoGf6NYYv49A85g5X0ja8X2Y
 You have to run the first block, then the second block and after that scroll down to play the game.
